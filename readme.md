@@ -4,7 +4,7 @@
 
 - Automatically opens the first search result
 - Automatically opens the stroke order animation for each character
-- Switches all hanzi to render in cursive font for readibilty
+- Switches all hanzi to render in cursive font for readabilty
 
 ![Before and after using extension](https://github.com/itswil/mdbg-clicker/blob/main/screenshot.png "Before and after using extension")
 
