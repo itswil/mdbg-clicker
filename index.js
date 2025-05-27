@@ -28,3 +28,8 @@ waitForElement(".charresults", (actions) => {
 		button.click();
 	}
 });
+
+const style = document.createElement("style");
+style.textContent =
+	".hanzi { font-family: 'Kaiti SC', 'Kaiti TC', 'KaiTi' !important; font-weight: bold !important; }";
+document.head.appendChild(style);
