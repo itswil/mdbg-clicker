@@ -1,0 +1,13 @@
+{
+	"manifest_version": 3,
+	"name": "MDBG.net Clicker",
+	"version": "1.0",
+	"description": "Automatically expands the first hanzi result (including stroke order info)",
+
+	"content_scripts": [
+		{
+			"js": ["index.js"],
+			"matches": ["https://www.mdbg.net/*"]
+		}
+	]
+}
